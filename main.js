@@ -1,5 +1,4 @@
-
-        (function(){
+ (function(){
             // A Slider UI element
             function SickSlider(sliderElementSelector) {
               var that = {
